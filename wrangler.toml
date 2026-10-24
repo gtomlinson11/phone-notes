@@ -7,4 +7,4 @@ compatibility_date = "2025-09-01"
 binding = "DB"
 database_name = "phone-notes"
 # Paste your database ID here (Cloudflare dashboard > Storage & Databases > D1 > phone-notes)
-database_id = "PASTE-YOUR-DATABASE-ID-HERE"
+database_id = "62409af2-fded-420b-a2e5-cf8d874945d0"

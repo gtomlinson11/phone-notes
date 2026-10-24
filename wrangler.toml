@@ -1,0 +1,10 @@
+# Cloudflare Worker settings for Phone Notes
+name = "phone-notes"
+main = "src/index.js"
+compatibility_date = "2025-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "phone-notes"
+# Paste your database ID here (Cloudflare dashboard > Storage & Databases > D1 > phone-notes)
+database_id = "PASTE-YOUR-DATABASE-ID-HERE"
